@@ -5,7 +5,7 @@
 #### 2022.01.11 (수) 발표
 주제|발표자(자료)
 ---|---
--|홍영준
+코틀린 - 함수, 람다, 컬렉션의 함수형, 이모저모|홍영준([자료](https://github.com/study-playground/study-webtoons/issues/3))
 -|이명륜
 -|최정균
 
