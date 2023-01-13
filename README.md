@@ -6,7 +6,7 @@
 주제|발표자(자료)
 ---|---
 -|홍영준
-InputStream, OutputStream 다뤄보기 |이명륜
+InputStream, OutputStream 실습 |이명륜
 -|최정균
 
 #### 2022.01.10 (화) 발표
