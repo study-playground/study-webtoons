@@ -5,7 +5,7 @@
 #### 2022.01.18 (수) 발표
 주제|발표자(자료)
 ---|---
--|홍영준
+Kotlin으로 테스트코드 작성해보기(실습-간단예제)|홍영준([자료](https://github.com/study-playground/study-webtoons/issues/4))
 InputStream, OutputStream 실습 |이명륜
 -|최정균
 
